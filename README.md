@@ -40,7 +40,7 @@ Following are the Python (v3.8) Libraries used for the analysis:
 * Tableau 2019.4+
 
 
-## ENTITY RELATIONSHIP
+## [ENTITY RELATIONSHIP](https://github.com/Vasuki-Manoharan/University-Database/blob/add-license-1/ER%20-%20Diagram.png)
 
 A university is identified by its id and has information of its location,student size, total branches, Tuition, admission rates.
 
