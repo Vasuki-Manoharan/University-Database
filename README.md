@@ -71,7 +71,7 @@ From [Top universities](https://www.topuniversities.com/where-to-study/north-ame
 
 Also from [US news](https://www.usnews.com/) the top 100 universities by category was obtained. Now the ese information were also cleaned,audited and normalized to combine it to the data from API in MYSQL. 
 
-The IPython Notebook index.ipynb for the data gathering can be downloaded from the repo.
+The IPython Notebook [index.ipynb](https://github.com/Vasuki-Manoharan/University-Database/blob/add-license-1/index.ipynb) for the data gathering can be downloaded from the repo.
 
 Later, queries were made to understand the data and perform analysis.
 
@@ -80,7 +80,7 @@ Later, queries were made to understand the data and perform analysis.
 The analysis is structured. In that, a question and answer format is followed throughout.
 First a question is posed; then using SQL Queries and Tableau informative Visualizations and relevant Summary Statistics are generated that try to answer the question. 
 
-The IPython Notebook analysis.ipynb can be downloaded from the repo.
+The IPython Notebook [analysis.ipynb](https://github.com/Vasuki-Manoharan/University-Database/blob/add-license-1/Analysis%20.ipynb) can be downloaded from the repo.
 A Presentation on some of the major findings of the analysis can be viewed here.
 
 ## CONCLUSIONS
@@ -96,4 +96,4 @@ A Presentation on some of the major findings of the analysis can be viewed here.
 
 ## LICENSE
 
-The contents of this repository are covered under the MIT License.
+The contents of this repository are covered under the [MIT License](https://github.com/Vasuki-Manoharan/University-Database/blob/add-license-1/LICENSE).
